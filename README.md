@@ -4,7 +4,7 @@
 
 ## Project description
 <p align="justify">A jokes app using  <a href="https://github.com/15Dkatz/official_joke_api">official-jokes-api</a>, the app consists of a card with a question, and when you hover over it you get the answer, you can also add it to your favorites, and they are saved on localstorage.</p>
-<img src="https://img.shields.io/static/v1?label=Stats&message=In Progress&color=blueviolet&style=flat&logo=<LOGO>"></img>
+<img src="https://img.shields.io/static/v1?label=Stats&message=In-Progress&color=blueviolet&style=flat&logo=<LOGO>"></img>
 
 ### Features 🏁 
 - [x] Show Joke question and answer
